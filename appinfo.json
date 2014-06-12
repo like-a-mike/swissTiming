@@ -1,0 +1,18 @@
+{
+    "resources": {
+        "media": []
+    },
+    "uuid": "11490515-3888-4583-9e40-367ed931571f",
+    "versionCode": 4,
+    "companyName": "like-a-mike",
+    "appKeys": {},
+    "watchapp": {
+        "watchface": true
+    },
+    "versionLabel": "1.2.1",
+    "capabilities": [
+        "configurable"
+    ],
+    "longName": "SwissTiming",
+    "shortName": "SwissTiming"
+}
